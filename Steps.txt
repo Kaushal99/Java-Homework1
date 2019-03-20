@@ -1,0 +1,9 @@
+This is java homework for the following ;
+1.Write a program in java to prepare calculator- where u can add,subtract,divide,
+  and multiplication for 2 integer numbers]
+2.WAP to print your name,age,address and date of birth
+3.to calculate area of cricle-for given radius
+4.to calculate total marks and percentage for 3 subjects for student using
+   paramaterized method
+5.to find hyphotenuse value-when 2 sides of right triangle is given 
+  (Pythagorean theorem)
